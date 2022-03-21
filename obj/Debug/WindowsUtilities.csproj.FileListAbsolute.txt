@@ -1,0 +1,7 @@
+C:\Users\alex7\Desktop\Work\WindowsUtilities\obj\Debug\WindowsUtilities.csprojAssemblyReference.cache
+C:\Users\alex7\Desktop\Work\WindowsUtilities\obj\Debug\WindowsUtilities.csproj.CoreCompileInputs.cache
+C:\Users\alex7\Desktop\Work\WindowsUtilities\bin\Debug\WindowsUtilities.exe.config
+C:\Users\alex7\Desktop\Work\WindowsUtilities\bin\Debug\WindowsUtilities.exe
+C:\Users\alex7\Desktop\Work\WindowsUtilities\bin\Debug\WindowsUtilities.pdb
+C:\Users\alex7\Desktop\Work\WindowsUtilities\obj\Debug\WindowsUtilities.exe
+C:\Users\alex7\Desktop\Work\WindowsUtilities\obj\Debug\WindowsUtilities.pdb
